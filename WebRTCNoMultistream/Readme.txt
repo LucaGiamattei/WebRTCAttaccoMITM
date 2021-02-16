@@ -1,4 +1,3 @@
-WebRTCAttaccoMITM
 Server applicativi (con node js):
 - server.js :
 	esecuzione con "node ./server.js"
